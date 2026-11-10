@@ -1,0 +1,6 @@
+   requests
+   pandas
+   matplotlib
+   numpy
+   pymannkendall
+   streamlit
